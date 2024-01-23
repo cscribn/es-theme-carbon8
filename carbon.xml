@@ -56,7 +56,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>1</forceUppercase>
 			<size>0.9 0</size>
 			<pos>0.5 0.2</pos>
-			<fontPath>./art/Cabin_Condensed-Regular.ttf</fontPath>
 			<alignment>center</alignment>
 			<origin>0.5 0.5</origin>
 		</text>
@@ -258,7 +257,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
-			<fontPath>./art/Cabin_Condensed-Regular.ttf</fontPath>
 			<alignment>right</alignment>
 			<fontSize>0.030</fontSize>
 		</text>
