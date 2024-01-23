@@ -10,13 +10,6 @@
 
 		<text name="systemText" extra="true">
 			<text>Amstrad - CPC</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.9 0</size>
-			<pos>0.5 0.2</pos>
-			<origin>0.5 0.5</origin>
-			<color>8b0000</color>
-			<fontPath>./../art/Cabin-Bold.ttf</fontPath>
-			<alignment>center</alignment>
 		</text>
 
 	</view>
@@ -25,20 +18,10 @@
 
 		<image name="logo">
 			<path>./art/system.svg</path>
-			<pos>0.266 0.074</pos>
-			<maxSize>0.460 0.126</maxSize>
-			<origin>0.5 0.5</origin>
 		</image>
 
 		<text name="systemText" extra="true">
 			<text>Amstrad - CPC</text>
-			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
-			<pos>0.527 0.01</pos>
-			<color>8b0000</color>
-			<fontPath>./../art/Cabin-Bold.ttf</fontPath>
-			<fontSize>0.030</fontSize>
-			<alignment>right</alignment>
 		</text>
 
 	</view>
