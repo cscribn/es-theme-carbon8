@@ -259,7 +259,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
 			<fontPath>./art/Cabin_Condensed-Regular.ttf</fontPath>
-			<alignment>center</alignment>
+			<alignment>right</alignment>
 			<fontSize>0.030</fontSize>
 		</text>
 
