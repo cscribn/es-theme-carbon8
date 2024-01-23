@@ -48,7 +48,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<text name="systemText" extra="true">
 			<color>8b0000</color>
 			<forceUppercase>1</forceUppercase>
-			<fontSize>0.06</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.9 0</size>
 			<pos>0.5 0.2</pos>
 			<alignment>center</alignment>
@@ -161,7 +161,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<datetime name="md_releasedate">
-			<pos>0.6 0.63</pos>
+			<pos>0.62 0.63</pos>
 		</datetime>
 
 		<text name="md_lbl_developer">
@@ -169,7 +169,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<text name="md_developer">
-			<pos>0.6 0.66</pos>
+			<pos>0.62 0.66</pos>
 		</text>
 
 		<text name="md_lbl_publisher">
@@ -177,7 +177,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<text name="md_publisher">
-			<pos>0.6 0.69</pos>
+			<pos>0.62 0.69</pos>
 		</text>
 
 		<textlist name="gamelist">
@@ -227,10 +227,9 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
 			<alignment>right</alignment>
-			<fontSize>0.030</fontSize>
+			<fontSize>0.04</fontSize>
 		</text>
 
 	</view>
-
 
 </theme>
