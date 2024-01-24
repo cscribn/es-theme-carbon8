@@ -128,9 +128,17 @@ Element color: Search and replace colors. Do not use spaces!
 			<path>./art/carbon_fiber.png</path>
 		</image>
 
-		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_rating, md_lbl_lastplayed, md_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players">
+		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players">
 			<pos>1 1</pos>
 		</text>
+
+		<rating name="md_rating">
+			<pos>1 1</pos>
+		</rating>
+
+		<datetime name="md_lastplayed">
+			<pos>1 1</pos>
+		</datetime>
 
 		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher">
 			<color>8b0000</color>
