@@ -48,7 +48,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<text name="systemText" extra="true">
 			<color>8b0000</color>
 			<forceUppercase>1</forceUppercase>
-			<fontSize>0.04</fontSize>
+			<fontSize>0.05</fontSize>
 			<size>0.9 0</size>
 			<pos>0.5 0.2</pos>
 			<alignment>center</alignment>
@@ -235,7 +235,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<size>0.45 0.08</size>
 			<pos>0.527 0.01</pos>
 			<alignment>right</alignment>
-			<fontSize>0.03</fontSize>
+			<fontSize>0.04</fontSize>
 		</text>
 
 	</view>
