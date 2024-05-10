@@ -161,7 +161,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
-			<size>0.28 0.033</size>
+			<size>0 0.033</size>
 		</text>
 
 		<text name="md_lbl_releasedate">
