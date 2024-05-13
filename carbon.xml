@@ -232,7 +232,7 @@ Element color: Search and replace colors. Do not use spaces!
 		<text name="systemText" extra="true">
 			<color>8b0000</color>
 			<forceUppercase>1</forceUppercase>
-			<size>0.45 0.08</size>
+			<size>0.45 0</size>
 			<pos>0.527 0.01</pos>
 			<alignment>right</alignment>
 			<fontSize>0.04</fontSize>
