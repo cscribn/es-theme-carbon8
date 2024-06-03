@@ -33,7 +33,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/centerfade.png</path>
-			<color>8b000050</color>
+			<color>8b0000</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
@@ -42,7 +42,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/bottom.png</path>
-			<color>8b0000c0</color>
+			<color>8b0000</color>
 		</image>
 
 		<text name="systemText" extra="true">
