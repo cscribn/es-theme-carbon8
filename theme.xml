@@ -10,7 +10,7 @@ Element color: Search and replace colors. Do not use spaces!
 	Pink	f5 02 97
 -->
 <theme>
-	<formatVersion>3</formatVersion>
+	<formatVersion>4</formatVersion>
 
 	<view name="system">
 
@@ -73,7 +73,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
 			<selectedColor>8b0000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
@@ -194,7 +193,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
 			<selectedColor>8b0000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
