@@ -1,16 +1,6 @@
-<!--
-Element color: Search and replace colors. Do not use spaces!
-	Red 	8b 00 00
-	Blue 	30 82 ce
-	Green 	50 d6 2c
-	Yellow	ef bc 0b
-	Orange	ef 71 0b
-	Purple	ac 0b ef
-	Teal	04 e9 f7
-	Pink	f5 02 97
--->
 <theme>
 	<formatVersion>4</formatVersion>
+	<include>./color.xml</include>
 
 	<view name="system">
 
@@ -33,7 +23,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
 			<path>./art/centerfade.png</path>
-			<color>8b000050</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
@@ -42,7 +31,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/bottom.png</path>
-			<color>8b0000c0</color>
 		</image>
 
 		<image name="logo">
@@ -50,7 +38,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<text name="systemText" extra="true">
-			<color>8b0000</color>
 			<forceUppercase>1</forceUppercase>
 			<fontSize>0.05</fontSize>
 			<size>0.9 0</size>
@@ -73,7 +60,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<textlist name="gamelist">
-			<selectedColor>8b0000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -145,7 +131,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</datetime>
 
 		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher">
-			<color>8b0000</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
@@ -193,7 +178,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</text>
 
 		<textlist name="gamelist">
-			<selectedColor>8b0000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -215,7 +199,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 1</origin>
 			<size>1 0.065</size>
 			<path>./art/bottom.png</path>
-			<color>8b0000</color>
 		</image>
 
 		<image name="top" extra="true">
@@ -223,7 +206,6 @@ Element color: Search and replace colors. Do not use spaces!
 			<origin>0 0</origin>
 			<size>1 0.16</size>
 			<path>./art/top.png</path>
-			<color>8b0000</color>
 		</image>
 
 		<image name="logo">
@@ -234,7 +216,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<text name="systemText" extra="true">
-			<color>8b0000</color>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0</size>
 			<pos>0.527 0.01</pos>

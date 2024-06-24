@@ -1,0 +1,112 @@
+<!--
+Element color: Search and replace colors. Do not use spaces!
+	Red 	8b 00 00
+	Blue 	30 82 ce
+	Green 	50 d6 2c
+	Yellow	ef bc 0b
+	Orange	ef 71 0b
+	Purple	ac 0b ef
+	Teal	04 e9 f7
+	Pink	f5 02 97
+-->
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+		</image>
+
+		<helpsystem name="help">
+		</helpsystem>
+
+		<image name="CenterFade" extra="true">
+			<color>8b000050</color>
+		</image>
+
+		<image name="BottomBar" extra="true">
+			<color>8b0000c0</color>
+		</image>
+
+		<image name="logo">
+		</image>
+
+		<text name="systemText" extra="true">
+			<color>8b0000</color>
+		</text>
+
+	</view>
+
+	<view name="basic">
+
+		<image name="background" extra="true">
+		</image>
+
+		<textlist name="gamelist">
+			<selectedColor>8b0000</selectedColor>
+		</textlist>
+
+	</view>
+
+	<view name="detailed, video">
+
+		<image name="background">
+		</image>
+
+		<text name="md_lbl_genre, md_genre, md_lbl_rating, md_lbl_lastplayed, md_lbl_playcount, md_playcount, md_lbl_players, md_players">
+		</text>
+
+		<rating name="md_rating">
+		</rating>
+
+		<datetime name="md_lastplayed">
+		</datetime>
+
+		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher">
+			<color>8b0000</color>
+		</text>
+
+		<text name="md_lbl_releasedate">
+		</text>
+
+		<datetime name="md_releasedate">
+		</datetime>
+
+		<text name="md_lbl_developer">
+		</text>
+
+		<text name="md_developer">
+		</text>
+
+		<text name="md_lbl_publisher">
+		</text>
+
+		<text name="md_publisher">
+		</text>
+
+		<textlist name="gamelist">
+			<selectedColor>8b0000</selectedColor>
+		</textlist>
+
+	</view>
+
+	<view name="basic, detailed, video">
+
+		<image name="bottom" extra="true">
+			<color>8b0000</color>
+		</image>
+
+		<image name="top" extra="true">
+			<color>8b0000</color>
+		</image>
+
+		<image name="logo">
+		</image>
+
+		<text name="systemText" extra="true">
+			<color>8b0000</color>
+		</text>
+
+	</view>
+
+</theme>
