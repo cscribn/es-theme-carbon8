@@ -1,35 +1,4 @@
 <theme>
-    <formatVersion>3</formatVersion>
-    <include>./../carbon.xml</include>
-
-	<view name="system">
-
-		<image name="logo">
-			<path>./art/system.svg</path>
-        </image>
-
-		<text name="systemText" extra="true">
-			<text>Panasonic - 3DO</text>
-		</text>
-
-	</view>
-
-	<view name="basic, detailed, video">
-
-		<image name="logo">
-			<path>./art/system.svg</path>
-		</image>
-
-		<text name="systemText" extra="true">
-			<text>Panasonic - 3DO</text>
-		</text>
-
-	</view>
-
-	<view name="basic">
-	</view>
-
-	<view name="detailed">
-	</view>
-
+	<formatVersion>3</formatVersion>
+	<include>./../theme.xml</include>
 </theme>
