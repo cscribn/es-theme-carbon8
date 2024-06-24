@@ -1,6 +1,6 @@
 # Carbon8 Theme for EmulationStation
 
-Have you ever had trouble discerning a system based on its logo or controller? Have you wondered whether `Game Gear` should be sorted with the `Gs`, for `Game`, or the `Ss`, for `Sega`? This theme was designed to address those issues. Instead of displaying the system's controller, it instead displays the full system name, based on the [Libretro Database](https://db.libretro.com). Minimal meta data is utilized.
+Have you ever had trouble discerning a system based on its logo or controller? Have you wondered whether `Game Gear` should be sorted with the `Gs`, for `Game`, or the `Ss`, for `Sega`? This theme was designed to address those issues. Instead of displaying the system's controller, it instead displays the system's fullname from your `es_settings.cfg`. Only "Released", "Developer", and "Publisher" meta data is utilized.
 
 ![System Select](README/System%20Select.png) ![Detailed Game List](README/Detailed%20Game%20List.png)
 
@@ -14,11 +14,11 @@ Eight is the number of bits in a character. For systems, Carbon8 uses characters
 
 ### Change Font
 
-Copy your font to /etc/emulationstation/themes/carbon/art folder. Rename the original font "Cabin-Bold.ttf" to "Cabin-Bold.ttf.backup" and then rename your font to "Cabin-Bold.ttf".
+Copy your font to /etc/emulationstation/themes/carbon8/art folder. Rename the original font "Cabin-Bold.ttf" to "Cabin-Bold.ttf.backup" and then rename your font to "Cabin-Bold.ttf".
 
 ### Change Color
 
-To change the colors open carbon.xml with a text editor. Find all occurances of "8b0000" and replace them with your chosen color.
+To change the colors open theme.xml with a text editor. Find all occurances of "8b0000" and replace them with your chosen color.
 
 ### Change Sound
 
