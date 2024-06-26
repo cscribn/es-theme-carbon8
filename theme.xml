@@ -93,7 +93,6 @@
 				<maxSize>0.366 0.436</maxSize>
 				<origin>0.5 0.5</origin>
 				<delay>0.2</delay>
-				<default></default>
 				<showSnapshotNoVideo>true</showSnapshotNoVideo>
 				<showSnapshotDelay>false</showSnapshotDelay>
 			</video>
