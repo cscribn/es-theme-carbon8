@@ -38,6 +38,7 @@
 		</image>
 
 		<text name="systemText" extra="true">
+			<color>7d7d7d</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/SNES.ttf</fontPath>
 			<fontSize>0.055</fontSize>
@@ -216,6 +217,7 @@
 		</image>
 
 		<text name="systemText" extra="true">
+			<color>7d7d7d</color>
 			<forceUppercase>1</forceUppercase>
 			<size>0.45 0</size>
 			<pos>0.527 0.01</pos>
