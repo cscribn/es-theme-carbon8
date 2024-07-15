@@ -21,7 +21,7 @@ Element color: Search and replace colors. Do not use spaces!
 		</helpsystem>
 
 		<image name="CenterFade" extra="true">
-			<color>8b000050</color>
+			<color>8b000080</color>
 		</image>
 
 		<image name="BottomBar" extra="true">
