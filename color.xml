@@ -32,7 +32,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<text name="systemText" extra="true">
-			<color>8b0000</color>
 		</text>
 
 	</view>
@@ -131,7 +130,6 @@ Element color: Search and replace colors. Do not use spaces!
 		</image>
 
 		<text name="systemText" extra="true">
-			<color>8b0000</color>
 		</text>
 
 	</view>
