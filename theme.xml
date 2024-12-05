@@ -134,7 +134,7 @@
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
-			<size>0 0.033</size>
+			<size>0.467 0.033</size>
 		</text>
 
 		<datetime name="md_releasedate">
@@ -142,7 +142,7 @@
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
-			<size>0 0.033</size>
+			<size>0.467 0.033</size>
 		</datetime>
 
 		<text name="md_developer, md_publisher">
@@ -150,31 +150,31 @@
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.023</fontSize>
-			<size>0 0.033</size>
+			<size>0.467 0.033</size>
 		</text>
 
 		<text name="md_lbl_releasedate">
-			<pos>0.53 0.63</pos>
-		</text>
-
-		<datetime name="md_releasedate">
-			<pos>0.64 0.63</pos>
-		</datetime>
-
-		<text name="md_lbl_developer">
 			<pos>0.53 0.66</pos>
 		</text>
 
+		<datetime name="md_releasedate">
+			<pos>0.53 0.69</pos>
+		</datetime>
+
+		<text name="md_lbl_developer">
+			<pos>0.53 0.72</pos>
+		</text>
+
 		<text name="md_developer">
-			<pos>0.64 0.66</pos>
+			<pos>0.53 0.75</pos>
 		</text>
 
 		<text name="md_lbl_publisher">
-			<pos>0.53 0.69</pos>
+			<pos>0.53 0.78</pos>
 		</text>
 
 		<text name="md_publisher">
-			<pos>0.64 0.69</pos>
+			<pos>0.53 0.81</pos>
 		</text>
 
 		<textlist name="gamelist">
