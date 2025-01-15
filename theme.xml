@@ -37,6 +37,14 @@
 			<path>./art/systems/${system.theme}.svg</path>
 		</image>
 
+		<image name="ConsoleOverlay" extra="true">
+			<tile>false</tile>
+			<pos>0.5 0.22</pos>
+			<origin>0.5 0.5</origin>
+			<size>0 0.15</size>
+			<path>./art/consoles/${system.theme}.svg</path>
+		</image>
+
 		<text name="systemText" extra="true">
 			<color>969696</color>
 			<forceUppercase>1</forceUppercase>

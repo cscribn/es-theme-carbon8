@@ -31,6 +31,9 @@ Element color: Search and replace colors. Do not use spaces!
 		<image name="logo">
 		</image>
 
+		<image name="ConsoleOverlay" extra="true">
+		</image>
+
 		<text name="systemText" extra="true">
 		</text>
 
