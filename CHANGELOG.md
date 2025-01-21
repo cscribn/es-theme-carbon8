@@ -2,7 +2,8 @@
 
 ## Changes from Carbon Theme for EmulationStation
 
-* Replaced controller overlay with system text.
+* Added system text.
+* Replaced controller overlay with mini consoles based on [es-theme-carbon](https://github.com/fabricecaruso/es-theme-carbon).
 * Minimized the metadata to released date, developer, publisher.
 * Simplified by using variables.
 * Updated system logos based on 'carbon' v2.5 - 2020-11-17 by Tomaz
